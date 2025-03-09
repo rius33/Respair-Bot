@@ -1,0 +1,6 @@
+# .env
+# Remove the brackets and replace with the requisite strings. No quotations needed.
+DISCORD_TOKEN= []
+DISCORD_GUILD= []
+CHANNEL_ID= []
+GROUP_NAME= []
