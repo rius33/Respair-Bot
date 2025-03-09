@@ -1,0 +1,28 @@
+# Environment
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+#Google Sheets API Key
+*.json
+
+#Testing Scripts
+test.txt
+WOMtest.py
